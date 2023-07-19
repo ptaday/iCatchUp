@@ -1,10 +1,6 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
-
-package Homework3;
 
 /**
  * This class represent Start Navigation option in the maps menu
