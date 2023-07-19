@@ -1,10 +1,7 @@
 /**
  * @author Pushkar Taday
- * SBU ID:114375166
- * Recitation:04
  */
 
-package Homework3;
 
 /**
  * This is an interface. When implemented all the method in the body have to be overridden.
