@@ -28,10 +28,10 @@ The iCatchUpApplication project aims to prototype a back button for various appl
 
 ## Prerequisites
 
-To run the iCatchUpApplication project, ensure you have the following installed on your computer:
+To run the DeliveryListManager project, ensure you have the following installed on your computer:
 
-- Visual Studio with VB.Net support
-- Git (optional, for cloning the repository)
+Java Development Kit (JDK) 1.8 or later
+Git (optional, for cloning the repository)
 
 ## Installation
 
@@ -44,13 +44,15 @@ $ cd iCatchUpApplication
 ## Usage
 To compile 
 ```bash
-$ javac Main.java
+$ javac iCatchUp.java
 ```
 Run the DeliveryListManager application from the command line.
 ```bash
-$ java Main
+$ java iCatchUp
 ```
 Follow the on-screen prompts to use the prototype and demonstrate how the back button will work in the Maps app and Safari app.
+
+Make sure to create a single package for all the classes and and include them in the first line of your code.
 
 ## Required Classes
 
